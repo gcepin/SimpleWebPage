@@ -1,0 +1,4 @@
+SimpleWebPage
+=============
+
+Simple page
